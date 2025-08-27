@@ -32,7 +32,7 @@ DEBUG = True
 
 PRODUCTION = os.getenv('PRODUCTION', 'False').lower() == 'true'
 ...
-ALLOWED_HOSTS = ["localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "maharani.anindya-footballnews.pbp.cs.ui.ac.id"]
 ...
 
 
