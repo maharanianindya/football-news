@@ -36,7 +36,6 @@ ALLOWED_HOSTS = ["localhost", "127.0.0.1", "maharani-anindya-footballnews.pbp.cs
 
 CSRF_TRUSTED_ORIGINS = [
     "https://maharani-anindya-footballnews.pbp.cs.ui.ac.id"
-
 ]
 # Application definition
 
